@@ -50,14 +50,14 @@ SELECT * FROM CUSTOMERS;
  
 -- Question 6
 /* Table Name     	  Rows        	Columns  
-     CUSTOMERS		    122		        13
-     EMPLOYEES		    23		        8
-     OFFICES		      7		          9
-     ORDERDETAILS	    2996		      5
-     ORDERS		        326		        7
-     PAYMENTS		      273		        4
-     PRODUCTLINES	    7		          4
-     PRODUCTS		      110		        9
+     CUSTOMERS		  122		    13
+     EMPLOYEES		  23		    8
+     OFFICES		  7		        9
+     ORDERDETAILS	  2996		    5
+     ORDERS		      326		    7
+     PAYMENTS		  273		    4
+     PRODUCTLINES	  7		        4
+     PRODUCTS		  110		    9
 */
  
 -- Question 7
